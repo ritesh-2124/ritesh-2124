@@ -11,7 +11,7 @@
 
 -    know more about me and my knowledge **https://ritesh-yadav.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18KG9VPwdGJzP73msH0H-Dgw_srD3Drrr/view](https://drive.google.com/file/d/18KG9VPwdGJzP73msH0H-Dgw_srD3Drrr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sSbydhvPiNDJfU9yuPVg9nwswtQw3Mef/view?usp=sharing](https://drive.google.com/file/d/1sSbydhvPiNDJfU9yuPVg9nwswtQw3Mef/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
