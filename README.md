@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kumar Yadav</h1>
-<h3 align="center">I'm passionate about programming and everything technology and have endeavored to be upto date with the current technologies and skills.</h3>
+<h3 align="center">Glad to see you here! I'm Ritesh Yadav, a Software Engineer with a strong passion for backend development and cloud solutions. I've implemented CI/CD pipelines using AWS and love solving complex problems with technologies like Node.js, PostgreSQL, and Docker. Outside of coding, I enjoy playing both cricket 🏏 and badminton 🏸, and I find peace in a good book 📚 and some music 🎶.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-2124&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-2124" /> </p>
 
