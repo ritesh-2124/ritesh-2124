@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-2124&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-2124" /> </p>
 
-- 🌱 I’m currently working as a Software Engineer II **Allen Career institute Pvt. Ltd.**
+- 🌱 I’m currently working as a Software Engineer II at **Allen Career institute Pvt. Ltd.**
 
 - 💬 Ask me about **Web development.**
 
