@@ -12,7 +12,7 @@
 
 -    know more about me and my knowledge **https://ritesh-yadav.vercel.app/**
 
-- 📄 Know about my experiences [Resume(https://drive.google.com/file/d/1beZKZgz3rMMpLGhLcnXQLenqAjX1gSCJ/view?usp=sharing)]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1beZKZgz3rMMpLGhLcnXQLenqAjX1gSCJ/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
