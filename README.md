@@ -1,4 +1,4 @@
-<p align="center">Glad to see you here! I'm Ritesh Yadav, a Software Engineer with a strong passion for backend development and cloud solutions. I've implemented CI/CD pipelines using AWS and love solving complex problems with technologies like Node.js , GO ,Python, PostgreSQL, and Docker. Outside of coding, I enjoy playing both cricket 🏏 and badminton 🏸, and I find peace in a good book 📚 and some music 🎶.
+<p align="center">Glad to see you here! I'm Ritesh Yadav, a Software Engineer with a strong passion for backend development and cloud solutions. I've implemented CI/CD pipelines using AWS and love solving complex problems with technologies like JavaScript , GO ,Python, PostgreSQL, and Docker. Outside of coding, I enjoy playing both cricket 🏏 and badminton 🏸, and I find peace in a good book 📚 and some music 🎶.
 
 </p>
 
