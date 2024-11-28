@@ -78,6 +78,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
@@ -103,7 +104,8 @@
 ### **Other Tools**
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-FF6600?style=flat&logo=ffmpeg&logoColor=white)&nbsp;
 ![Webmin](https://img.shields.io/badge/Webmin-000000?style=flat&logo=webmin&logoColor=white)&nbsp;
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)&nbsp;
+![Camunda](https://img.shields.io/badge/Camunda-0066CC?style=flat&logo=camunda&logoColor=white)&nbsp;
 
 <br>
 
